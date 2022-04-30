@@ -1,0 +1,15 @@
+# Summary
+
+- [Introduction](./chapter_1.md)
+  - [Sum Types](./chapter_1_sum_types.md)
+  - [Pattern Matching](./chapter_1_pattern_matching.md)
+  - [Traits](./chapter_1_traits.md)
+  - [Error Handling](./chapter_1_error_handling.md)
+  - [TODO Threads](./chapter_1_threads.md)
+    - [TODO Closures](./chapter_1_threads_closures.md)
+  - [TODO Channels](./chapter_1_channels.md)
+- [TODO Construction](./chapter_2.md)
+  - [TODO Types and Traits](./chapter_2_types_and_traits.md)
+  - [TODO Plumbing](./chapter_2_plumbing.md)
+  - [TODO Polish](./chapter_2_polish.md)
+- [TODO Conclusion](./chapter_3_conclusion.md)
